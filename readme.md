@@ -1,0 +1,1 @@
+﻿Creation of a database and queries to it. The database is based on RZD. The most important tables (in my opinion) were used.
